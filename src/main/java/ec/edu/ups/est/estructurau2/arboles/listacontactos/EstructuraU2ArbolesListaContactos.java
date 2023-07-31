@@ -66,7 +66,8 @@ public class EstructuraU2ArbolesListaContactos {
                 case 3:
                     System.out.println("Ingrese el nombre del contacto:");
                     nombre = scanner.nextLine();
-                    if (arbolContactos.eliminar(nombre)) {
+                    if (nombre == null){
+                        arbolContactos.eliminar(nombre);
                         System.out.println("El contacto ha sido eliminado.");
                     } else {
                         System.out.println("El contacto no existe.");
