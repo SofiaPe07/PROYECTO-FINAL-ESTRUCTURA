@@ -217,8 +217,8 @@ public class ArbolContactos {
         // La altura del nodo es el máximo entre la altura de sus subárboles más 1
         return Math.max(alturaIzquierda, alturaDerecha) + 1;
     }
-
-    public int peso() {
+    
+    public int pesoArbol() {
         return pesoRecursivo(this.raiz);
     }
 

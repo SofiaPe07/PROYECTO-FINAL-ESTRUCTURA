@@ -119,7 +119,7 @@ public class EstructuraU2ArbolesListaContactos {
                     }
                     break;
                 case 7:
-                    System.out.println("El número de contactos totales es: " + arbolContactos.peso());
+                    System.out.println("El número de contactos totales es: " + arbolContactos.pesoArbol());
                     break;
                 case 8:
                     System.out.println("El número de niveles del árbol es: " + arbolContactos.estaBalanceado());
