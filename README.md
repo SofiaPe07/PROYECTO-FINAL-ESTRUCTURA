@@ -1,4 +1,6 @@
-[![logoUniversidad](Edissongithub "logoUniversidad")](https://es.m.wikipedia.org/wiki/Archivo:Logo_Universidad_Polit%C3%A9cnica_Salesiana_del_Ecuador.png "logoUniversidad")
+[![LogoUniversidad](Github "LogoUniversidad")](https://upload.wikimedia.org/wikipedia/commons/b/b0/Logo_Universidad_Polit%C3%A9cnica_Salesiana_del_Ecuador.png "LogoUniversidad")
+
+
 
 **PROYECTO FIN DE CICLO**
 
